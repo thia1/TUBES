@@ -80,7 +80,7 @@ function App() {
         <Stack.Screen 
         options={{    
           headerStyle: {
-          backgroundColor: '#FA4A0C',
+          backgroundColor: '#000000',
           elevation: null
         },
         headerTitleStyle: {
